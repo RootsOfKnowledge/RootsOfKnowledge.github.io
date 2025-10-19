@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="icon" type="image/svg+xml" href="/vite.svg" />
+	
+	<script type="module" src="../src/plantIndex.ts"></script>
+	
+	<link rel="stylesheet" href="../styles/pico.jade.css">
+	<link rel="stylesheet" href="../styles/plantIndex.css">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Plant Index</title>
+</head>
+
+<body>
+
+	<nav data-theme="dark" class="container-fluid">
+		<ul>
+			<li>Roots of Knowledge</li>
+		</ul>
+		<ul>
+			<li>HOME</button></li>
+			<li><button><a href="../" class="secondary white">SCAN</a></button></li>
+		</ul>
+	</nav>
+	<br>
+	
+	
+	
+	<article class="container center">
+		<header>Gre</header>
+		sDRH
+	</article>
+
+	<div class="center title">
+		<span id="plantName"><progress/></span>
+		<p id="plantScientific" class="center">Scientific Name</p>
+	</div>
+	
+	<div class="container center">
+		<img id="plantImg" src="../images/plant.jpg" alt="placeholder image" width="5000px">
+		<p><small><i>Also known as: <b><span id="plantAlias"></span></b></i></small></p>
+		
+		<p id="plantInfo">Plant's Information</p>
+		
+	</div>
+		
+	<div class="container">
+		<details>
+			<summary role="button" class="loading" aria-busy="true">What does its colors mean?</summary>
+			<p id="plantColors"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">How long does it live for?</summary>
+			<p id="plantLifespan"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">How do we grow the plant?</summary>
+			<p  id="plantGrow"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">How do we take care of the plant?</summary>
+			<p id="plantCare"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">What are the signs of a dying plant?</summary>
+			<p  id="plantDying"></p>
+		</details>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="icon" type="image/svg+xml" href="/vite.svg" />
+	
+	<link rel="stylesheet" href="styles/qrScan.css">
+	<link rel="stylesheet" href="styles/plantIndex.css">
+	<link rel="stylesheet" href="../styles/pico.jade.css">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Plant Scanner</title>
+</head>
+
+<body>
+
+	<nav data-theme="dark" class="container-fluid">
+		<ul>
+			<li>Roots of Knowledge</li>
+		</ul>
+		<ul>
+			<li>HOME</button></li>
+			<li><button disabled><a href="../" class="secondary">SCAN</a></button></li>
+		</ul>
+	</nav>
+	<br>
+
+	<div id="reader" class="container" width="0.1vw"></div>
+	
+	<script type="module" src="/src/qrScan.ts"></script>
+</body>
+
+</html>
