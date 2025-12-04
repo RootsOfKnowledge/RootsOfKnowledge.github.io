@@ -21,6 +21,10 @@ html {
 	text-align: center;
 }
 
+.hidden {
+	display: none;
+}
+
 .white {
 	color: white;
 }
@@ -40,6 +44,7 @@ html {
 #plantScientific {
 	color: #d9d9d9;
 	font-size: 1.125rem;
+	font-style: italic;
 }
 
 #plantImg {

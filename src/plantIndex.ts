@@ -1,5 +1,7 @@
+document.getElementById('plantImg').src = document.location.hash.substring(1) + ".jpg";
+
 const fetchIndex = async () => {
-	const response = await fetch('../src/plantIndex.json');
+	const response = await fetch('/plantIndex.json');
 	const returnValue = await response.json();
 	return returnValue;
 };

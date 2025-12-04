@@ -2,36 +2,29 @@
 <html lang="en" data-theme="light">
 <head>
 	<meta charset="UTF-8" />
-	<link rel="icon" type="image/svg+xml" href="/vite.svg" />
+	<link rel="icon" type="image/x-icon" href="/images/icon.png" />
 	
-	<script type="module" src="../src/plantIndex.ts"></script>
+	<script type="module" src="/src/plantIndex.ts"></script>
 	
-	<link rel="stylesheet" href="../styles/pico.jade.css">
-	<link rel="stylesheet" href="../styles/plantIndex.css">
+	<link rel="stylesheet" href="/styles/pico.jade.css">
+	<link rel="stylesheet" href="/styles/plantIndex.css">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>Plant Index</title>
+	<title>Plant Information</title>
 </head>
 
 <body>
 
 	<nav data-theme="dark" class="container-fluid">
 		<ul>
+			<li><img src="/images/icon.png" width=45></li>
 			<li>Roots of Knowledge</li>
 		</ul>
 		<ul>
-			<li>HOME</button></li>
 			<li><button><a href="../" class="secondary white">SCAN</a></button></li>
 		</ul>
 	</nav>
 	<br>
-	
-	
-	
-	<article class="container center">
-		<header>Gre</header>
-		sDRH
-	</article>
 
 	<div class="center title">
 		<span id="plantName"><progress/></span>
@@ -39,7 +32,7 @@
 	</div>
 	
 	<div class="container center">
-		<img id="plantImg" src="../images/plant.jpg" alt="placeholder image" width="5000px">
+		<img id="plantImg" src="/images/plant.jpg" alt="placeholder image" width="5000px">
 		<p><small><i>Also known as: <b><span id="plantAlias"></span></b></i></small></p>
 		
 		<p id="plantInfo">Plant's Information</p>

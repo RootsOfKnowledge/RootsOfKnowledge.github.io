@@ -1,0 +1,119 @@
+{
+	"#0001":{
+		"name": "Indian Mango Tree",
+		"scientific": "Mangifera indica",
+		"alias": "Indian Mango or Katchamitha Mango",
+		"info": "A tropical fruit-bearing tree producing crisp, mildly sweet mangoes.",
+		"origin": "South Asia (India)",
+		"colors": "The fruit is green when unripe, yellow when ripe (symbolizes fertility and prosperity).",
+		"lifespan": "It can live for 100+ years.",
+		"grow": "To cultivate this plant successfully, you can start from either grafted seedlings or seeds. It thrives best in full sunlight and requires well-drained soil to ensure healthy growth. During dry seasons, consistent watering is essential to maintain its vitality and support optimal development.",
+		"care": "To take care of the plant, give it fertilizer once a year to help it grow strong. Cut off any dead or weak branches so it stays healthy. Keep bugs and fruit flies away to protect the plant and its fruit.",
+		"dying": "A plant may be dying if it drops fruits before they are ripe, its leaves turn yellow or curl, or you see black spots or fungus on the trunk or leaves. It may also stop growing flowers or only produce very few."
+	},
+	"#0002":{
+		"name": "Alatiris Tree",
+		"scientific": "Muntingia calabura",
+		"alias": "Aratiles, Jamaican Cherry, Sarisa, Mansanitas",
+		"info": "A fast-growing tropical fruit tree known for its small, sweet red berries.",
+		"origin": "Southern Mexico, Central and South America"
+	},
+	"#0003":{
+    "name": "West Indian Jasmine",
+    "scientific": "Ixora coccinea",
+    "alias": "West Indian Jasmine, Ixora, Jungle Geranium, Flame of the Woods",
+    "info": "A tropical flowering shrub known for its bright clusters of red, pink, orange, or yellow blooms.",
+    "origin": "Southern India and Sri Lanka",
+    "colors": "The flowers may be red, orange, pink, or yellow (symbolizing passion, love, and energy).",
+    "lifespan": "Typically lives for 10–15 years with proper care.",
+    "grow": "This plant grows well from stem cuttings and thrives in full sunlight. It prefers acidic, well-drained soil and requires moderate watering to stay healthy. Year-round blooming is common in warm climates.",
+    "care": "Prune regularly after flowering to maintain shape. Avoid alkaline soil, as it affects growth and blooming. Apply organic fertilizer monthly to support vibrant flowers and overall health.",
+    "dying": "Signs that the plant may be dying include leaves turning yellow or brown, persistent wilting even when watered, fewer or no flowers, or visible mold and pest infestations."
+	},
+	"#0004":{
+    "name": "Bougainvillea",
+    "scientific": "Bougainvillea spectabilis (commonly cultivated species)",
+    "alias": "Bougainvillea, Paper Flower, Tricycla",
+    "info": "A tropical woody climbing plant known for its vibrant, showy bracts that surround small, inconspicuous flowers.",
+    "origin": "Native to South America, including Mexico, Brazil, Bolivia, Paraguay, Peru, and Argentina.",
+    "colors": "Bracts may be magenta, white, orange, red, purple, yellow, or coral (symbolizing passion, love, happiness, strength, resilience, and endurance).",
+    "lifespan": "With proper care, it can live for 50+ years outdoors or 20–30 years in winter gardens.",
+    "grow": "To cultivate this plant successfully, place it in a location with at least 6 hours of direct sunlight daily. Use well-draining soil and space multiple plants 4–6 feet apart for good air circulation.",
+    "care": "Water deeply but infrequently, allowing the topsoil to dry out between waterings. Prune regularly to encourage blooming and maintain shape. Provide support like trellises for climbing varieties.",
+    "dying": "A plant may be dying if it stops flowering, wilts frequently, shows leaf drop, has weak woody stems, or suffers from root rot due to overwatering."
+	},
+	"#0005":{
+    "name": "Ti Plant",
+    "scientific": "Cordyline fruticosa",
+    "alias": "Tungkod-pare, Ti Plant, Good Luck Plant, Cabbage Tree",
+    "info": "An evergreen shrub prized for its vibrant, colorful foliage, commonly used as an ornamental plant both indoors and outdoors in tropical and subtropical climates.",
+    "origin": "Native to Southeast Asia, Eastern Australia, and the Pacific Islands.",
+    "colors": "Leaves may be green, red, pink, yellow, purple, or variegated in combinations (symbolizing good luck, prosperity, and protection from evil spirits).",
+    "lifespan": "With proper care, the plant can live for many years, typically 10 years or more.",
+    "grow": "To cultivate this plant successfully, provide bright indirect light to enhance foliage color. Use well-draining soil rich in organic matter and keep the soil consistently moist but not waterlogged. Maintain warm temperatures between 18–32°C.",
+    "care": "Water regularly, allowing the top inch of soil to dry slightly between watering. Provide high humidity, fertilize every 2–3 months during the growing season, and prune dead leaves to maintain appearance. Watch for pests such as spider mites and mealybugs.",
+    "dying": "A plant may be dying if its leaves brown or curl, growth slows significantly, foliage loses color, roots rot from overwatering, or pests like spider mites and mealybugs are present."
+	},
+	"#0006":{
+    "name": "Song of India",
+    "scientific": "Dracaena reflexa Lam.",
+    "alias": "Dracaena, Song of India, Song of Jamaica, Pleomele reflexa",
+    "info": "A tropical evergreen shrub known for its glossy, lance-shaped leaves arranged spirally around the stem. It is a popular ornamental houseplant valued for its attractive foliage and air-purifying qualities.",
+    "origin": "Native to Madagascar, Mauritius, Mozambique, and nearby islands in the Indian Ocean.",
+    "colors": "Leaves are typically green with yellow or cream-colored edges, especially in the Song of India variety (symbolizing prosperity, positivity, and resilience).",
+    "lifespan": "With proper care, it can live 10–15 years indoors and even longer in tropical outdoor environments.",
+    "grow": "To cultivate this plant successfully, place it in bright, indirect sunlight. Use well-draining soil containing peat, perlite, or sand, and maintain temperatures between 18–27°C for healthy growth.",
+    "care": "Keep the soil lightly moist, allowing the top inch to dry between waterings. Provide bright, indirect light, prune leggy stems to encourage bushiness, maintain moderate humidity, and fertilize monthly during the growing season.",
+    "dying": "A plant may be dying if its leaves turn brown or soft from overwatering, become pale or droopy from low light, develop crispy edges from low humidity, or show stunted growth and pests such as spider mites or mealybugs."
+	},
+	"#0007":{
+    "name": "Rubber Plant",
+    "scientific": "Ficus elastica",
+    "alias": "Rubber Plant, Rubber Tree, Indian Rubber Fig, Rubber Bush",
+    "info": "A large tropical evergreen tree or ornamental houseplant known for its thick, glossy leaves that produce milky latex used in making natural rubber.",
+    "origin": "Native to Southeast Asia, particularly India, Nepal, Myanmar, and Indonesia.",
+    "colors": "Leaves are dark green to burgundy (symbolizing abundance, wealth, and resilience).",
+    "lifespan": "It typically lives 20–50 years or more with proper care.",
+    "grow": "To cultivate this plant successfully, propagate using stem cuttings or air layering. It grows best in bright, indirect sunlight and in well-draining loamy soil.",
+    "care": "Water when the topsoil feels dry, wipe the leaves regularly to remove dust, keep it away from strong drafts and cold areas, and avoid overwatering to prevent root rot.",
+    "dying": "A plant may be dying if its leaves turn yellow or begin to drop, if stems or roots become soft from rot, if growth becomes stunted, or if foliage appears dull."
+	},
+	"#0008":{
+    "name": "Indian Lanutan",
+    "scientific": "Ternstroemia ulmifolia",
+    "alias": "Elang, Firebush, Shrub Ternstroemia",
+    "info": "A tropical evergreen shrub or small tree with glossy leaves and small white flowers, commonly used as an ornamental hedge or garden border.",
+    "origin": "Native to the Philippines and other parts of Southeast Asia.",
+    "colors": "Glossy green leaves and white flowers (symbolizing simplicity, peace, and renewal).",
+    "lifespan": "It typically lives 10–20 years with proper maintenance.",
+    "grow": "To cultivate this plant successfully, grow it from seeds or cuttings. It prefers full to partial sunlight and thrives in moist but well-draining soil.",
+    "care": "Prune regularly to maintain shape, water moderately while avoiding overwatering, and fertilize with organic compost every few months.",
+    "dying": "A plant may be dying if its leaves turn brown or brittle, it shows slow or no new growth, or pests and fungal spots appear."
+	},
+	"#0009":{
+    "name": "Madagascar Periwinkle",
+    "scientific": "Catharanthus roseus (L.) G. Don",
+    "alias": "Annual Vinca, Madagascar Periwinkle, Periwinkle, Rose Periwinkle, Running Myrtle, Vinca rosea, Acokanthera rosea, Lochnera rosea",
+    "info": "An evergreen, tender, erect-to-spreading perennial in the dogbane family valued for its ornamental flowers and medicinal properties. Native to Madagascar and naturalized in warm regions worldwide.",
+    "origin": "Native to the island of Madagascar.",
+    "colors": "Flowers come in pink, white, blue, and red, symbolizing everlasting love (pink, white), purity (white, blue), passion (red), and new beginnings (blue).",
+    "lifespan": "A perennial plant, though often grown as an annual or semi-annual depending on climate.",
+    "grow": "To cultivate this plant successfully, plant in well-drained soil under full sunlight. Water moderately, avoiding excess moisture that may cause root rot. Propagate through seeds or stem cuttings in warm conditions.",
+    "care": "Prune occasionally to maintain compact growth and encourage flowering. Protect from strong winds and heavy rain, and fertilize monthly during the growing season if soil nutrients are low.",
+    "dying": "A plant may be dying if its leaves turn yellow or droop, stems become soft or wilt, roots turn brown or black from rot, or if growth becomes stunted with few or no flowers."
+	},
+	"#0010":{
+    "name": "False Ashoka Tree",
+    "scientific": "Polyalthia longifolia",
+    "alias": "Mast Tree, Indian Mast Tree, Uvaria longifolia",
+    "info": "A tall, evergreen tree recognized for its slender, columnar form and wavy-edged leaves, commonly used for landscaping and urban beautification.",
+    "origin": "Native to India and Sri Lanka.",
+    "colors": "Leaves are green, symbolizing growth, harmony, and renewal; new foliage may appear bronze or reddish.",
+    "lifespan": "It typically lives 50–70 years with proper care.",
+    "grow": "To cultivate this plant successfully, propagate it from seeds or cuttings. It prefers full sunlight to partial shade and requires well-drained soil.",
+    "care": "Water regularly during the first few years, prune to maintain shape and remove dead branches, and apply balanced fertilizer during the growing season.",
+    "dying": "A plant may be dying if it shows excessive leaf drop, stunted growth, leaf discoloration or spotting, or brittle, dry branches."
+	}
+
+
+}
