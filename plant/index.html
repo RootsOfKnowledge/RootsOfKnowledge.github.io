@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="icon" type="image/x-icon" href="/assets/icon-BA3xEMaV.png" />
+	
+	
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Plant Information</title>
+  <script type="module" crossorigin src="/assets/plant-sOlY7LWy.js"></script>
+  <link rel="modulepreload" crossorigin href="/assets/pico.jade-B4xPsBns.js">
+  <link rel="stylesheet" crossorigin href="/assets/pico-Bg6VAdPh.css">
+</head>
+
+<body>
+
+	<nav data-theme="dark" class="container-fluid">
+		<ul>
+			<li><img src="/assets/icon-BA3xEMaV.png" width=45></li>
+			<li>Roots of Knowledge</li>
+		</ul>
+		<ul>
+			<li><button><a href="../" class="secondary white">SCAN</a></button></li>
+		</ul>
+	</nav>
+	<br>
+
+	<div class="center title">
+		<span id="plantName"><progress/></span>
+		<p id="plantScientific" class="center">Scientific Name</p>
+	</div>
+	
+	<div class="container center">
+		<img id="plantImg" src="/assets/plant-7vQRMLA1.jpg" alt="placeholder image" width="5000px">
+		<p><small><i>Also known as: <b><span id="plantAlias"></span></b></i></small></p>
+		
+		<p id="plantInfo">Plant's Information</p>
+		
+	</div>
+		
+	<div class="container">
+		<details>
+			<summary role="button" class="loading" aria-busy="true">What does its colors mean?</summary>
+			<p id="plantColors"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">How long does it live for?</summary>
+			<p id="plantLifespan"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">How do we grow the plant?</summary>
+			<p  id="plantGrow"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">How do we take care of the plant?</summary>
+			<p id="plantCare"></p>
+		</details>
+		
+		<details>
+			<summary role="button" class="loading" aria-busy="true">What are the signs of a dying plant?</summary>
+			<p  id="plantDying"></p>
+		</details>
+	</div>
+</body>
+
+</html>
