@@ -1,14 +1,17 @@
 {
-  "name": "plantscane",
+  "name": "PlantScanner",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://RootsOfKnowledge.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+	"deploy": "gh-pages -d dist"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "html5-qrcode": "^2.3.8",
     "typescript": "~5.9.3",
     "vite": "^7.1.7",

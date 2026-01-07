@@ -41,6 +41,48 @@
 		
 	<div class="container">
 		<details>
+			<summary role="button" class="loading" aria-busy="true">What are its classifications?</summary>
+			<p></p><table>
+				<thead>
+					<tr>
+						<th scope="col">Classification</th>
+						<th scope="col">Name</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th scope="row">Kingdom:</th>
+						<td><i><span id="plantKingdom">kingdom</span></i></td>
+					</tr>
+					<tr>
+						<th scope="row">Phylum:</th>
+						<td><i><span id="plantPhylum">phylum</span></i></td>
+					</tr>
+					<tr>
+						<th scope="row">Class:</th>
+						<td><i><span id="plantClass">class</span></i></td>
+					</tr>
+					<tr>
+						<th scope="row">Order:</th>
+						<td><i><span id="plantOrder">order</span></i></td>
+					</tr>
+					<tr>
+						<th scope="row">Family:</th>
+						<td><i><span id="plantFamily">family</span></i></td>
+					</tr>
+					<tr>
+						<th scope="row">Genus:</th>
+						<td><i><span id="plantGenus">genus</span></i></td>
+					</tr>
+					<tr>
+						<th scope="row">Species:</th>
+						<td><i><span id="plantSpecies">species</span></i></td>
+					</tr>
+				</tbody>
+			</p></table>
+		</details>
+
+		<details>
 			<summary role="button" class="loading" aria-busy="true">What does its colors mean?</summary>
 			<p id="plantColors"></p>
 		</details>
@@ -48,11 +90,6 @@
 		<details>
 			<summary role="button" class="loading" aria-busy="true">How long does it live for?</summary>
 			<p id="plantLifespan"></p>
-		</details>
-		
-		<details>
-			<summary role="button" class="loading" aria-busy="true">How do we grow the plant?</summary>
-			<p  id="plantGrow"></p>
 		</details>
 		
 		<details>

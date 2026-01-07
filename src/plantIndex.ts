@@ -12,9 +12,16 @@ fetchIndex().then(index => {
 	document.getElementById('plantAlias').innerText = index[document.location.hash].alias;
 	document.getElementById('plantInfo').innerText = index[document.location.hash].info;
 	
+	document.getElementById('plantKingdom').innerText = index[document.location.hash].classification.kingdom;
+	document.getElementById('plantPhylum').innerText = index[document.location.hash].classification.phylum;
+	document.getElementById('plantClass').innerText = index[document.location.hash].classification.class;
+	document.getElementById('plantOrder').innerText = index[document.location.hash].classification.order;
+	document.getElementById('plantFamily').innerText = index[document.location.hash].classification.family;
+	document.getElementById('plantGenus').innerText = index[document.location.hash].classification.genus;
+	document.getElementById('plantSpecies').innerText = index[document.location.hash].classification.species;
+	
 	document.getElementById('plantColors').innerText = index[document.location.hash].colors;
 	document.getElementById('plantLifespan').innerText = index[document.location.hash].lifespan;
-	document.getElementById('plantGrow').innerText = index[document.location.hash].grow;
 	document.getElementById('plantCare').innerText = index[document.location.hash].care;
 	document.getElementById('plantDying').innerText = index[document.location.hash].dying;
 	
